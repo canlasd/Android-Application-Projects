@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+<array name = "dogs_array">
+    
+    <item>Afinpincher</item>
+    <item>Afghan Hound</item>
+    <item>Basset Hound</item>
+    <item>Bichon Friche</item>
+    <item>Bull Dog</item>
+    <item>Chow Chow</item>
+    
+    
+    <item>American Cocker Spaniel</item>
+    <item>German Shepard</item>
+    <item>Great Dane</item>
+    <item>Grey Hound</item>
+    <item>Golden Doodle</item>
+    <item>Jack Russell Terrier</item>
+    
+    <item>King Cavalier Charles Spaniel</item>
+    <item>Labrador Retriever</item>
+    <item>Labradoodle</item>
+    <item>Poodle</item>
+    <item>English Cocker Spaniel</item>
+    <item>Shih Tzu</item>
+    
+    <item>Schnauzer</item>
+    <item>Terrier</item>
+    
+    
+    
+</array>
+
+</resources>

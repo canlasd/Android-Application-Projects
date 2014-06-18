@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SQLiteSpinnerApp</string>
+    <string name="Add">Add New Label</string>
+    <string name="Enter">Enter New Label Here</string>
+    <string name="Image_Add">Add</string>
+    <string name="Select">Select Label Entered</string>
+  
+    <string name="Item1">Item 1</string>
+    <string name="SubItem1">Sub Item 1</string>
+   
+
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LearnIntentsApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="string_main">Main Activity</string>
+    <string name="string_second">Second Activity</string>
+    <string name="string_third">Third Activity</string>
+    <string name="string_fourth">Fourth Activity</string>
+    <string name="second_btn">Go To Second Activity</string>
+    <string name="fourth_btn">Go To Fourth Activity</string>
+    <string name="hint_string">Enter a Dog Breed</string>
+    <string name="save">Save</string>
+    <string name="message_string">You clicked go to Fourth Activity</string>
+    
+    
+    
+    
+    
+</resources>

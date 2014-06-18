@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MakingToasts</string>
+    <string name="action_settings">Settings</string>
+	<string name="short_toast">Dry Short Toast</string> 
+	<string name="long_toast">Dry Long Toast</string> 
+	<string name="gravity_button_text">Toast With Jam</string> 
+	<string name="custom_button_text">Custom Toast</string> 
+	<string name="custom_time">Toast With Butter</string> 
+	<string name="long_txt">This is a dry plain toast using the LENGTH_LONG, goes well 
+	with tea</string> 
+	<string name="short_txt">This is a dry plain toast using the LENGTH_SHORT</string> 
+	<string name="time_txt">A Custom Time Length Toast, alas some butter</string> 
+	<string name="gravity_text">Toast with the Gravity Changed, goes well with 
+	Jam</string> 
+	<string name="custom_toast_text">Completely Customized Toast YUM!</string> 
+
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    
+    <string name="app_name">User Interface</string>
+    <string name="menu_settings">Settings</string>
+    <string name="user_interface">Creating User Interfaces</string>
+    <string name="hello_world">Hello world!</string> 
+    <string name="hint">Type Your Name</string> 
+    <string name="btn_ok">OK</string> 
+    <string name="title_activity_get_name">Get Name Activity</string> 
+    <string name="user_name">Enter Your Name</string>
+    
+    
+    <!--  <string name="hello_world">Hello world my Name is David!</string>
+    
+    -->
+
+</resources>

@@ -1,0 +1,40 @@
+package com.example.buttonresourceapp;
+
+import android.text.Editable;
+import android.text.method.KeyListener;
+import android.view.KeyEvent;
+import android.view.View;
+
+public class OnClickListener implements KeyListener {
+
+	@Override
+	public void clearMetaKeyState(View arg0, Editable arg1, int arg2) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public int getInputType() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public boolean onKeyDown(View arg0, Editable arg1, int arg2, KeyEvent arg3) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public boolean onKeyOther(View arg0, Editable arg1, KeyEvent arg2) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public boolean onKeyUp(View arg0, Editable arg1, int arg2, KeyEvent arg3) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+}

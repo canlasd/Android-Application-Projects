@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <array name="dog_names"> 
+    <item>Labrador</item>
+    <item>Poodle</item>
+    <item>Labradoodle</item>
+    <item>Bull Dog</item>
+    <item>Beagle</item>
+    <item>Beabull</item>
+    <item>Boxer</item>
+    <item>Bogle</item>
+    <item>CKC Spaniel</item>
+    <item>Bichon Frise</item>
+    <item>Cavachon</item>
+    <item>Miniature Schnauzer</item>
+    <item>Schnoodle</item>
+    <item>Maltese</item>
+    <item>Maltipoo</item>
+    
+    </array>
+    
+     
+     <array name="cat_names"> 
+    <item>Siamese</item>
+    <item>Balinese</item>
+    <item>Bambino</item>
+    <item>Bengal</item>
+    <item>Birman</item>
+    <item>Chausie</item>
+    <item>Cheetoh</item>
+    <item>Dwelf</item>
+    <item>Havana Brown</item>
+    <item>Javanese</item>
+    <item>Persian</item>
+    <item>Ragamuffin</item>
+    <item>Toyger</item>
+    <item>Tonkinese</item>
+    
+     </array>
+   
+   
+    
+    
+    
+    
+    
+</resources>

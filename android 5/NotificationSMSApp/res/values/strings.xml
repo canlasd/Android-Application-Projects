@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NotificationSMSApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hint">Enter Telephone Number</string>
+    <string name="enter">Enter Message</string>
+    <string name="send">Send Message   </string>
+    <string name="message_sent">Message Successfully Sent</string>
+    <string name="notification">Notification</string>
+    <string name="message_delivered">Message Successfully Delivered</string>
+
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">settings</string>
+    <string name="app_name">Dog List</string>
+    <string name="choice">You Have Chosen</string>
+    <string name="image">View Image</string>
+    <string name="breed">Breed Name</string>
+    <string name="rank">AKC ranking</string>
+    <string name="group">Dog Group</string>
+    <string name="web">Web Site:  </string>
+    <string name="labrador">http://www.dogbreedinfo.com/labrador.htm</string>
+    <string name="poodle">http://www.dogbreedinfo.com/poodles.htm</string>
+    <string name="labradoodle">http://www.dogbreedinfo.com/labradoodle.htm</string>
+  	<string name="bulldog">http://www.dogbreedinfo.com/bulldog.htm</string>
+    <string name="beagle">http://www.dogbreedinfo.com/beagle.htm</string>
+    <string name="beabull">http://www.dogbreedinfo.com/beabull.htm</string>
+    <string name="boxer">http://www.dogbreedinfo.com/boxer.htm</string>
+    <string name="bogle">http://www.dogbreedinfo.com/bogle.htm</string>
+    <string name="ckc_spaniel">http://www.dogbreedinfo.com/cavalierkingcharlesspaniel.htm</string>
+    <string name="bichon_frise">http://www.dogbreedinfo.com/bichonfrise.htm</string>
+    <string name="cavachon">http://www.dogbreedinfo.com/cavachon.htm</string>
+    <string name="miniature_schnauzer">http://www.dogbreedinfo.com/miniatureschnauzer.htm</string>
+    <string name="schnoodle">http://www.dogbreedinfo.com/schnoodle.htm</string>
+    <string name="maltese">http://www.dogbreedinfo.com/maltese.htm</string>
+    <string name="maltipoo">http://www.dogbreedinfo.com/maltipoo.htm</string>
+    
+    
+    
+    
+</resources>

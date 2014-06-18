@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    
+    <string name="hello_world">Hello world!</string>
+    <string name="app_name">Edit Text Field</string> 
+    <string name="action_settings">Settings</string>
+    
+    <!-- These are the strings used in the activity_textview.xml file --> 
+ 	<string name="dog_breeds">Enter A Dog Breed</string> 
+	<string name="hint">type a dog breed here</string> 
+	<string name="toggle_btn">OK</string> 
+  
+
+</resources>

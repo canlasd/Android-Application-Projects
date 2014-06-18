@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    
+    <string name="app_name">Dialogs</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="simple_dialog">Click for Simple Dialog</string>
+    <string name="list_dialog">Click to Display a List Dialog</string>
+    <string name="checkbox_dialog">Click to Display a Checkbox Dialog</string>
+    <string name="custom_dialog">Click for a Custom Dialog</string>
+    <string name="custom_dialogText">My Custom Dialog Text</string>
+    <string name="custom_close">Click to Close a Custom Dialog</string>
+
+</resources>

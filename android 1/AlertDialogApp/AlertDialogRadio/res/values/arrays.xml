@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <array name="dog_names"> 
+    <item>Labrador</item>
+    <item>Poodle</item>
+    <item>Labradoodle</item>
+    <item>Bull Dog</item>
+    <item>Beagle</item>
+    <item>Beabull</item>
+    <item>Boxer</item>
+    <item>Bogle</item>
+    <item>CKC Spaniel</item>
+    <item>Bichon Frise</item>
+    <item>Cavachon</item>
+    <item>Miniature Schnauzer</item>
+    <item>Schnoodle</item>
+    <item>Maltese</item>
+    <item>Maltipoo</item>
+    
+    </array>
+    
+   <array name="dog_groups"> 
+    <item>Sporting Group</item>
+    <item>Non-Sporting / Toy Group</item>
+    <item>Hybrid Group</item>
+    <item>Non-Sporting Group</item>
+    <item>Hound Group</item>
+    <item>Hybrid Group</item>
+    <item>Working Group</item>
+    <item>Toy Group</item>
+    <item>Non-Sporting</item>
+    <item>Hybrid Group</item>
+    <item>Terrier Group</item>
+    <item>Toy Group</item>
+    <item>Hybrid</item>
+    
+    </array>
+    
+   
+   
+   
+    <array name="rank">
+    <item>1st</item>
+    <item>8th</item>
+    <item>Not Ranked</item>
+    <item>5th</item>
+    <item>4th</item>
+    <item>Not Ranked</item>
+    <item>7th</item>
+    <item>Not Ranked</item>
+    <item>2nd</item>
+    <item>38th</item>
+    <item>Not Ranked</item>
+    <item>13th</item>
+    <item>Not Ranked</item>
+    <item>25th</item>
+    <item>Not Ranked</item>
+    
+     </array>
+    
+    
+    
+    
+    
+</resources>

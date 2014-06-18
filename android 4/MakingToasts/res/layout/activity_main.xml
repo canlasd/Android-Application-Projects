@@ -1,0 +1,87 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/silver"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".MainActivity"
+    android:id="@+id/toast_layout_root" >
+
+    <Button
+        android:id="@+id/shortButton"
+        android:layout_width="260dp"
+        android:layout_height="50dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:background="@color/white"
+        android:drawableLeft="@drawable/dry_short_toast"
+        android:onClick="onShortClick"
+        android:padding="5dp"
+        android:text="@string/short_toast"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/shortButton2"
+        android:layout_width="260dp"
+        android:layout_height="50dp"
+        android:layout_alignLeft="@+id/shortButton"
+        android:layout_alignRight="@+id/shortButton"
+        android:layout_below="@+id/shortButton"
+        android:layout_marginTop="10dp"
+        android:background="@color/yellow"
+        android:drawableLeft="@drawable/dry_long_toast"
+        android:onClick="onShortClick1"
+        android:padding="5dp"
+        android:text="@string/long_toast"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/shortButton3"
+        android:layout_width="260dp"
+        android:layout_height="50dp"
+        android:layout_alignLeft="@+id/shortButton2"
+        android:layout_alignRight="@+id/shortButton2"
+        android:layout_below="@+id/shortButton2"
+        android:layout_marginTop="10dp"
+        android:background="@color/white"
+        android:drawableLeft="@drawable/toast_with_butter"
+        android:onClick="onShortClick2"
+        android:padding="5dp"
+        android:text="@string/custom_time"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/shortButton4"
+        android:layout_width="260dp"
+        android:layout_height="50dp"
+        android:layout_alignLeft="@+id/shortButton3"
+        android:layout_alignRight="@+id/shortButton3"
+        android:layout_below="@+id/shortButton3"
+        android:layout_marginTop="10dp"
+        android:background="@color/aqua"
+        android:drawableLeft="@drawable/toast_with_jam"
+        android:onClick="onShortClick3"
+        android:padding="5dp"
+        android:text="@string/gravity_button_text"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/shortButton5"
+        android:layout_width="260dp"
+        android:layout_height="50dp"
+        android:layout_alignLeft="@+id/shortButton4"
+        android:layout_alignRight="@+id/shortButton4"
+        android:layout_below="@+id/shortButton4"
+        android:layout_marginTop="10dp"
+        android:background="@color/olive"
+        android:drawableLeft="@drawable/custom_toast"
+        android:onClick="onShortClick4"
+        android:padding="5dp"
+        android:text="@string/custom_button_text"
+        android:textColor="@color/black" />
+
+</RelativeLayout>

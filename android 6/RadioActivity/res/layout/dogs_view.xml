@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RadioGroup xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/green">"
+
+    <RadioButton
+        android:id="@+id/Sporting"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Sporting" 
+        android:onClick="onRadioButtonClicked" 
+        android:textColor="@color/white" />
+
+    <RadioButton
+        android:id="@+id/Hound"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Hound"
+        android:onClick="onRadioButtonClicked" 
+        android:textColor="@color/white" />
+
+    <RadioButton
+        android:id="@+id/NonSporting"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/NonSporting"
+        android:onClick="onRadioButtonClicked" 
+        android:textColor="@color/white"/>
+
+    <RadioButton
+        android:id="@+id/Working"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Working" 
+        android:onClick="onRadioButtonClicked" 
+        android:textColor="@color/white"/>
+
+    <RadioButton
+        android:id="@+id/Toy"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Toy" 
+        android:onClick="onRadioButtonClicked" 
+        android:textColor="@color/white"/>
+
+    <RadioButton
+        android:id="@+id/Herding"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Herding" 
+        android:onClick="onRadioButtonClicked" 
+        android:textColor="@color/white"/>
+
+    <RadioButton
+        android:id="@+id/Terrier"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Terrier" 
+        android:onClick="onRadioButtonClicked" 
+        android:textColor="@color/white"/>
+
+    <RadioButton
+        android:id="@+id/Mutt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Mutt" 
+        android:onClick="onRadioButtonClicked" 
+        android:textColor="@color/white"/>
+
+</RadioGroup>

@@ -1,0 +1,45 @@
+package com.example.buttonresourceapp;
+
+import android.app.Activity;
+import android.os.Bundle;
+import android.view.Menu;
+
+public class ButtonResourceActivity extends Activity {
+
+	/* Button buttonStop = (Button) findViewById(R.id.btn_stop); */
+
+	@Override
+	public void onCreate(Bundle savedInstanceState) {
+		super.onCreate(savedInstanceState);
+		setContentView(R.layout.activity_button_resource);
+
+	
+
+	@Override
+	public boolean onCreateOptionsMenu(Menu menu) {
+		// Inflate the menu; this adds items to the action bar if it is present.
+		getMenuInflater().inflate(R.menu.button_resource, menu);
+		return true;
+	
+	
+
+
+
+
+		Button btn1 = (Button) findViewById(R.id.btn_start); btn1.setOnClickListener(new OnClickListener(){
+  
+			@Override public void sendMessage(View view){
+	  //send message when clicked
+	
+ 
+  Toast.makeText(ButtonResourceActivity.this,  "The start button was clicked",Toast.LENGTH_LONG).show(); 
+  
+  } });
+  
+  
+ 
+ 
+ 
+
+
+ 

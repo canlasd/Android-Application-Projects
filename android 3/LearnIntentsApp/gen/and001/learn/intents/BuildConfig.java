@@ -1,0 +1,6 @@
+/** Automatically generated file. DO NOT MODIFY */
+package and001.learn.intents;
+
+public final class BuildConfig {
+    public final static boolean DEBUG = true;
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PopupMenuApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Labrador">Lab</string>
+    <string name="Poodle">Poodle</string>
+    <string name="Terrier">Terrier</string>
+    <string name="Spaniel">Spaniel</string>
+    <string name="dogs">Dog Breeds</string>
+
+</resources>

@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/lab"
+        android:title="@string/Labrador"/>
+    
+    <item
+        android:id="@+id/poodle"
+        android:title="@string/Poodle"/>
+    
+    <item
+        android:id="@+id/spaniel"
+        android:title="@string/Spaniel"/>
+    
+    <item
+        android:id="@+id/terrier"
+        android:title="@string/Terrier"/>
+    
+
+</menu>

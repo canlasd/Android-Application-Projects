@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="android.widget.TabHost.TabSpec"/>
+<fullyQualifiedTypeName name="android.util.Log"/>
+<fullyQualifiedTypeName name="android.view.LayoutInflater"/>
+<fullyQualifiedTypeName name="android.view.ViewGroup"/>
+<fullyQualifiedTypeName name="android.view.Gravity"/>
+<fullyQualifiedTypeName name="and001.making.toasts.R.string"/>
+<fullyQualifiedTypeName name="android.widget.TextView"/>
+<fullyQualifiedTypeName name="android.R.layout"/>
+<fullyQualifiedTypeName name="AND001.UNITS.MainActivity"/>
+<fullyQualifiedTypeName name="AND001.units.R"/>
+<fullyQualifiedTypeName name="AND001.userinterface.R"/>
+<fullyQualifiedTypeName name="AND001.UNITS.R"/>
+<fullyQualifiedTypeName name="and001.units.R"/>
+<fullyQualifiedTypeName name="and001.units.MainActivity"/>
+<fullyQualifiedTypeName name="and001.userinterface.R"/>
+<fullyQualifiedTypeName name="android.R"/>
+<fullyQualifiedTypeName name="and001.userinterface.R.id"/>
+<fullyQualifiedTypeName name="android.content.DialogInterface.OnClickListener"/>
+<fullyQualifiedTypeName name="android.view.View"/>
+<fullyQualifiedTypeName name="com.example.buttonresourceapp.ButtonResourceActivity"/>
+<fullyQualifiedTypeName name="com.example.buttonresourceapp.R.menu"/>
+<fullyQualifiedTypeName name="android.view.Menu"/>
+<fullyQualifiedTypeName name="android.widget.ImageButton"/>
+<fullyQualifiedTypeName name="com.example.buttonresourceapp.R.layout"/>
+<fullyQualifiedTypeName name="com.example.buttonresourceapp.R.id"/>
+<fullyQualifiedTypeName name="android.widget.Button"/>
+<fullyQualifiedTypeName name="android.widget.Toast"/>
+<fullyQualifiedTypeName name="android.view.View.OnClickListener"/>
+</qualifiedTypeNameHistroy>
